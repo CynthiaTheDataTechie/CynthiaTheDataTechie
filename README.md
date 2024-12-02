@@ -58,7 +58,7 @@ I have co-authored a chapter *[Utilising AI and Machine Learning for Regulatory 
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cynthiaakiotu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cynthia-akiotu-7b695aa9/))
 - 📝 [Medium](https://medium.com/@cynthiaakiotu)
 - 🎥 [YouTube](https://www.youtube.com/@CynthiaTheDatatechie)
 -
