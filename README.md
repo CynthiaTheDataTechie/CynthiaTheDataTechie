@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine 
 - **Programming Languages**: Python, SQL, R
 - **Tools**: Microsoft Power BI, Tableau, Azure, Google Colab
 - **Specialties**:
-  - Machine Learning (Supervised & Unsupervised Learning)
-  - Data Visualization
+  - Machine Learning 
+  - Data Visualisation
   - Financial Technology (FinTech)
   - Cybersecurity Awareness
 
