@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine 
 - 💻 Authored multiple projects including:
   - [Harnessing Price Sensitivity for Effective Customer Segmentation](https://github.com/CynthiaTheDataTechie/customer-segmentation)
   - [Predicting Corporate Innovation Using Machine Learning](https://github.com/CynthiaTheDataTechie/predicting-corporate-innovation)
-- 📃 Co-authored a chapter in the book *[Utilising AI and Machine Learning for Regulatory Compliance in Financial Institutions](https://www.example.com)*.
-- 🏅 Certified in **Microsoft Azure Data Science**, **ISO/IEC 27032 Senior Lead Cybersecurity**.
+- 📃 Co-authored a chapter in the book *[Utilising AI and Machine Learning for Regulatory Compliance in Financial Institutions](https://doi.org/10.4018/979-8-3693-5966-2.ch010)*.
+- 🏅 Certified in **Microsoft Azure Data Science**, **PECB ISO/IEC 27032 Senior Lead Cybersecurity**,**ITIL Foundation in Service Management**.
 
 ---
 
