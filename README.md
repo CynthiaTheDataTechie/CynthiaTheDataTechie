@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine 
 
 - 🌱 Currently exploring advanced **machine learning** and **data-driven decision-making**.
 - 🖋️ I write insightful [blog posts on Medium](https://medium.com/@cynthiaakiotu) about data science, machine learning, and innovation.
-- 🎥 Check out my [YouTube channel](https://www.youtube.com/@CynthiaThe) for tutorials and project walkthroughs.
+- 🎥 Check out my [YouTube channel](https://www.youtube.com/@CynthiaTheDataTechie) for tutorials and project walkthroughs.
+- - 📊 Creating insightful visualizations on [Tableau Public](https://public.tableau.com/app/profile/cynthia.a4553/viz/) to tell compelling data stories.
 - 💡 Advocate for **digital transformation**, leveraging technology to drive meaningful change.
 
 ---
@@ -61,16 +62,6 @@ I have co-authored a chapter *[Utilising AI and Machine Learning for Regulatory 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cynthia-akiotu-7b695aa9/))
 - 📝 [Medium](https://medium.com/@cynthiaakiotu)
 - 🎥 [YouTube](https://www.youtube.com/@CynthiaTheDatatechie)
--
+-- 📊 [Tableau Public Profile](https://public.tableau.com/app/profile/cynthia.a4553/viz/)
 
 ---
-
-### 🌟 Fun Fact
-
-When I'm not coding or researching, you'll find me mentoring budding data scientists or writing engaging content to inspire others!
-
----
-
-
----
-
