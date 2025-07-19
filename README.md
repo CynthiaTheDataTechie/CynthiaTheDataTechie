@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Cynthia Akiotu!
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine Learning Enthusiast**, combining technical expertise with creativity to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **Cloud Security Architect** and **Machine Learning Enthusiast**, combining technical expertise with creativity to solve real-world problems.
 
 ---
 
