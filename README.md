@@ -9,7 +9,7 @@ I’m driven by a vision to make security **accessible, practical, and impactful
 ## 🚀 About Me  
 
 - 🔐 Specialising in **Identity & Access Management (IAM), Data Governance, and Zero Trust** using Microsoft Entra, Purview, and Security Copilot.  
-- 📊 Experienced in **Data Science, FinTech, and AI-driven decision-making**.  
+- 📊 Experienced in **Cyber Security, Data Science, FinTech, and AI-driven decision-making**.  
 - 🎤 Regular **speaker at global tech conferences** (Global Azure, Conf42, WeDoAI, TechLead, SREday London).  
 - 🖋️ Author of **peer-reviewed publications** and blogs read across the globe.  
 - 🎥 Creator of educational content on [YouTube](https://www.youtube.com/@CynthiaTheDataTechie), simplifying complex cloud security and AI topics.  
