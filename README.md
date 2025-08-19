@@ -74,9 +74,9 @@ I’m driven by a vision to make security **accessible, practical, and impactful
 
 ## 🧠 Research & Published Work  
 
-- *Utilising AI and Machine Learning for Regulatory Compliance in Financial Institutions* – IGI Global, 2025  
-- *STEM Application in Education: Implication of STEM Computational Paradigm on Employment Prospects* – JSMT, 2024  
-- *A Predictive Nutritional Assessment System for Vegetarians using Artificial Neural Networks* — Journal of Future Artificial Intelligence and Technologies (FAITH), Aug 2025. DOI: [10.62411/faith.3048-3719-117](https://doi.org/10.62411/faith.3048-3719-117)  
+ - [*Utilising AI and Machine Learning for Regulatory Compliance in Financial Institutions* – IGI Global](https://www.igi-global.com/chapter/utilising-ai-and-machine-learning-for-regulatory-compliance-in-financial-institutions/348312)  
+- [*STEM Application in Education: Implication of STEM Computational Paradigm on Employment Prospects* – Journal of Science, Management and Technology](https://www.ajol.info/index.php/hpjsmt/article/view/286882)  
+- [*A Predictive Nutritional Assessment System for Vegetarians using Artificial Neural Networks* – Journal of Future Artificial Intelligence and Technologies (FAITH)](https://faith.futuretechsci.org/index.php/FAITH/article/view/117)  
 
 ---
 
