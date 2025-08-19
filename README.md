@@ -74,7 +74,7 @@ I’m driven by a vision to make security **accessible, practical, and impactful
 ## 🎯 What I'm Working On  
 
 - 🌐 Designing **Identity Governance frameworks** for enterprise AI adoption  
-- 🚀 Creating learning content on **Microsoft Security Copilot** and **AI-powered identity defense**  
+- 🚀 Creating learning content on **Security Copilot** and **AI-powered identity defense**  
 - 📊 Researching **portfolio risk management using machine learning clusters**  
 - 🎥 Expanding my **YouTube video series** for cloud security upskilling  
 - 🦸‍♀️ Scaling the **Cyberhero Coach Initiative** globally  
