@@ -28,9 +28,7 @@ I’m driven by a vision to make security **accessible, practical, and impactful
 - 🎤 **Global Speaking Engagements**  
   - **Global Azure (Poland)** – *Controlling the Controllers: Mastering Privileged Access in Azure*  
   - **Conf42 Observability** – *Access Is The New Breach: Why Observability Must Start With Identity*  
-  - **WeDoAI** – *AI Is Listening — But Who’s Watching?*  
-  - **TechLead Conference** – *From Access Control to AI Control: Why Identity Governance Is Key to Scaling AI in the Enterprise*  
-  - **SREday London** – *Who Owns the SRE Stack When AI Agents Enter the Picture?*  
+  
 
 - 💻 **Open Source & Projects**  
   - [Harnessing Price Sensitivity for Effective Customer Segmentation](https://github.com/CynthiaTheDataTechie/customer-segmentation)  
