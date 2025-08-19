@@ -33,7 +33,7 @@ I’m driven by a vision to make security **accessible, practical, and impactful
 - 💻 **Open Source & Projects**  
   - [Harnessing Price Sensitivity for Effective Customer Segmentation](https://github.com/CynthiaTheDataTechie/customer-segmentation)  
   - [Predicting Corporate Innovation Using Machine Learning](https://github.com/CynthiaTheDataTechie/predicting-corporate-innovation)  
-  - [YouTube Learning Hub](https://github.com/CynthiaTheDataTechie/Youtube-Lectures) – curated tutorials and lectures on AI, data, and security  
+  - [YouTube Learning Hub](https://github.com/CynthiaTheDataTechie/Youtube-Content) – curated tutorials and lectures on AI, data, and security  
 
 - 🌍 **Community Impact**  
   - Founder of **Cyberhero Coach** — delivering **cybersecurity education workshops** to kids, teens, and non-technical audiences.  
